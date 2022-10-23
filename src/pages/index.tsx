@@ -148,6 +148,7 @@ export default function IndexPage() {
           <Table columns={addColumns} dataSource={addData} style={{width:500}}/>
         </Card>
       </Space>
+      <p> new chance </p>
      </>
   );
 }
